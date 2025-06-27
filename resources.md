@@ -139,9 +139,10 @@ This is a living guide of resources for the greater Pittsburgh area and the Univ
 - **[Critical Resistance](https://criticalresistance.org/)**  
   National organization dedicated to abolishing the prison industrial complex through grassroots organizing and education.
 
-- **Interrupting Criminalization** – Abolitionist tools, safety planning resources, and zines focused on ending the criminalization of Black women, girls, and gender-expansive people.  
-  [https://www.interruptingcriminalization.com/tools](https://www.interruptingcriminalization.com/tools)
+- **[Interrupting Criminalization](https://www.interruptingcriminalization.com/tools)**  
+  Abolitionist tools, safety planning resources, and zines focused on ending the criminalization of Black women, girls, and gender-expansive people.
 
-- **WeCopwatch – Know Your Rights** – A grassroots project offering training, guides, and resources on how to safely observe and document police activity.  
-  [https://wecopwatch.org/know-your-rights/](https://wecopwatch.org/know-your-rights/)
+- **[WeCopwatch – Know Your Rights](https://wecopwatch.org/know-your-rights/)**  
+  A grassroots project offering training, guides, and resources on how to safely observe and document police activity.
+
 
