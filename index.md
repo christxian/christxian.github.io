@@ -1,6 +1,7 @@
 ---
 layout: default
 title: "Home"
+permalink: /pagepath/
 ---
 
 ## About Me
