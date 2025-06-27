@@ -6,7 +6,7 @@ permalink: /resources/
 
 # Resources
 
-This is a living guide of resources for the greater Pittsburgh area and the University of Pittsburgh. It includes both institutional services and grassroots mutual aid groups. Many of the organizations listed are focused on meeting basic needs through harm reduction, housing support, food justice, and anti-carceral frameworks.
+This is a living guide of resources for the greater Pittsburgh area. It includes both institutional services and grassroots mutual aid groups. Many of the organizations listed are focused on meeting basic needs through harm reduction, housing support, food justice, and anti-carceral frameworks.
 
 *Know something I missed? This list can grow—feel free to reach out to help keep it updated.*
 
@@ -81,14 +81,6 @@ This is a living guide of resources for the greater Pittsburgh area and the Univ
 - **Pittsburgh Action Against Rape (PAAR)**  
   24/7 crisis support for survivors  
   [Website](https://paar.net) | Crisis Line: 1-866-363-7273
-
----
-
-### ✊🏽 Racial Violence, Discrimination, or Harassment
-
-- **Pitt Civil Rights & Title IX Compliance**  
-  Reporting hate incidents and racial discrimination  
-  [Website](https://www.diversity.pitt.edu/civil-rights-title-ix-compliance/policies-procedures-and-practices/notice-non-discrimination)
 
 ---
 
