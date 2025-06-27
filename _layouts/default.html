@@ -1,33 +1,19 @@
-<body style="margin: 0; font-family: sans-serif;">
-
-  {% include header.html %}
-
-  <div style="display: flex; min-height: 100vh;">
-    {% include sidebar.html %}
-    
-    <main style="flex: 1; padding: 40px;">
-      {{ content }}
-    </main>
-  </div>
-
-</body>
-
 <!DOCTYPE html>
 <html lang="en">
   <head>
-    <meta charset="UTF-8">
+    <meta charset="UTF-8" />
     <title>{{ page.title }} | {{ site.title }}</title>
-    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <meta name="viewport" content="width=device-width, initial-scale=1" />
   </head>
   <body style="margin: 0; font-family: sans-serif;">
+    {% include header.html %}
 
     <div style="display: flex; min-height: 100vh;">
       {% include sidebar.html %}
-      
+
       <main style="flex: 1; padding: 40px;">
         {{ content }}
       </main>
     </div>
-
   </body>
 </html>
