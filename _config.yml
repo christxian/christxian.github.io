@@ -1,3 +1,12 @@
-title: Christian Alexander
-description: Personal site and research
-theme: jekyll-theme-minimal
+# _config.yml
+title: "Christian A. Portfolio"
+email: cap227@pitt.edu
+
+author:
+  name: "Christian A."
+  pronouns: "he/him"
+  position: "PhD Student"
+  school: "School of Social Work"
+  academic_website: "https://www.socialwork.pitt.edu/people/christian-porter"
+  researchgate: "https://www.researchgate.net/profile/Christian-Porter-2?ev=hdr_xprf"
+  avatar: "/assets/images/profile-square.jpg"
