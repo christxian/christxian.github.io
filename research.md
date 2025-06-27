@@ -12,12 +12,12 @@ My research focuses on how governance structures and policies criminalize homele
 ## Current Research Activities
 
 ### Can Law Enforcement Training Address Racial and Ethnic Disproportionality?  
-**PI:** Leah Jacobs, PhD  
+**PI:** [Leah Jacobs, PhD](https://www.socialwork.pitt.edu/people/leah-jacobs)  
 **Role:** Graduate Student Assistant  
 This experimental study evaluates whether targeted training can improve youth-police interactions and reduce racial and ethnic disparities in law enforcement encounters.
 
 ### Improving the Care and Treatment of Homeless Individuals in the Emergency Department  
-**PI:** Max Hurwitz, DO  
+**PI:** [Max Hurwitz, DO](https://www.rehabmedicine.pitt.edu/people/ant-103)  
 **Role:** Qualitative Research Assistant  
 This project examines barriers and facilitators to emergency healthcare access and quality for people experiencing homelessness, with the goal of informing patient-centered care improvements.
 
