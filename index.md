@@ -1,7 +1,6 @@
 ---
-title: Home
-permalink: /
-
+layout: default
+title: "Home"
 ---
 
 I’m a PhD student at the University of Pittsburgh School of Social Work. I earned my MSW from Pitt and my BSW from Eastern Michigan University. Before starting my doctoral work, I worked in psychiatric emergency services, domestic violence shelters, and homeless shelters. These experiences made me aware of how overlapping systems impact people’s lives and pushed me to question how social work operates within them.
