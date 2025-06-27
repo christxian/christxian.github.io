@@ -7,6 +7,8 @@ permalink: /research/
 
 My research focuses on how governance structures and policies criminalize homelessness and poverty in the U.S., shaping the everyday realities of these populations. I investigate the historical roots of vagrancy laws and the regulation of public space, which have long been used to exclude and control certain groups. Central to my work is the study of mutual aid and community-based survival practices, highlighting grassroots efforts that support individuals outside formal systems. I also strive to bridge grassroots advocacy with housing policy and action, aiming to connect community knowledge with institutional change. Finally, I explore comprehensive harm reduction strategies that prioritize dignity and autonomy in addressing substance use and mental health challenges.
 
+---
+
 ## Current Research Activities
 
 ### Can Law Enforcement Training Address Racial and Ethnic Disproportionality?  
@@ -18,6 +20,8 @@ This experimental study evaluates whether targeted training can improve youth-po
 **PI:** Max Hurwitz, DO  
 **Role:** Qualitative Research Assistant  
 This project examines barriers and facilitators to emergency healthcare access and quality for people experiencing homelessness, with the goal of informing patient-centered care improvements.
+
+---
 
 ## In-Progress Papers
 
