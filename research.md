@@ -3,6 +3,7 @@ layout: default
 title: "Research"
 permalink: /research/
 ---
+# Research
 
 My research focuses on how governance structures and policies criminalize homelessness and poverty in the U.S., shaping the everyday realities of these populations. I investigate the historical roots of vagrancy laws and the regulation of public space, which have long been used to exclude and control certain groups. Central to my work is the study of mutual aid and community-based survival practices, highlighting grassroots efforts that support individuals outside formal systems. I also strive to bridge grassroots advocacy with housing policy and action, aiming to connect community knowledge with institutional change. Finally, I explore comprehensive harm reduction strategies that prioritize dignity and autonomy in addressing substance use and mental health challenges.
 
