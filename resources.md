@@ -4,11 +4,11 @@ title: "Resources"
 permalink: /resources/
 ---
 
-## Support & Resources
+# Resources
 
-This is a living guide of resources for students at the University of Pittsburgh and the greater Pittsburgh community. It includes both institutional services and grassroots mutual aid groups. Many of the organizations listed are focused on meeting basic needs through harm reduction, housing support, food justice, and anti-carceral frameworks.
+This is a living guide of resources for the greater Pittsburgh area and the University of Pittsburgh. It includes both institutional services and grassroots mutual aid groups. Many of the organizations listed are focused on meeting basic needs through harm reduction, housing support, food justice, and anti-carceral frameworks.
 
-*Know something we missed? This list can grow—feel free to reach out to help us keep it updated.*
+*Know something I missed? This list can grow—feel free to reach out to help keep it updated.*
 
 ---
 
