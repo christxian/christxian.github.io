@@ -1,6 +1,6 @@
 # _config.yml
 title: "Christian A. Portfolio"
-email: cap227@pitt.edu
+email: "capnotes@proton.me"
 
 author:
   name: "Christian A. Porter"
@@ -8,6 +8,7 @@ author:
   position: "PhD Student"
   school: "School of Social Work"
   university: "University of Pittsburgh"
+  academic_email: "cap227@pitt.edu"
   academic_website: "https://www.socialwork.pitt.edu/people/christian-porter"
   researchgate: "https://www.researchgate.net/profile/Christian-Porter-2?ev=hdr_xprf"
   avatar: "/assets/images/profile-square.jpg"
