@@ -17,4 +17,4 @@ I’m available for trainings, guest lectures, or collaborative consulting on to
 
 If you're interested in working together, feel free to reach out! I'm always open to community-driven, justice-oriented projects.
 
-**Contact me:** [cap227@pitt.edu](mailto:cap227@pitt.edu)
+**Contact me:** [capnotes@proton.me](mailto:cap227@pitt.edu)
