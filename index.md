@@ -3,8 +3,6 @@ layout: default
 title: "Home"
 ---
 
-# Christian A. Porter
-
 ## About Me
 
 I am a doctoral student at the [University of Pittsburgh School of Social Work](https://www.socialwork.pitt.edu/). I earned my Bachelor of Social Work (BSW) from [Eastern Michigan University](https://www.emich.edu/chhs/social-work/index.php), where I interned at the [HIV/AIDS Treatment Program at Michigan Medicine](https://www.uofmhealth.org/conditions-treatments/hiv-aids-treatment-program). I completed my Master of Social Work (MSW) at the [University of Pittsburgh](https://www.socialwork.pitt.edu/), interning with the [UPMC HOPE Team](https://www.hopeteam.pitt.edu/). I have worked in a variety of settings, including psychiatric emergency services, domestic violence shelters, and homeless shelters, that have deeply shaped my approach to social work practice and research. These experiences have made clear how interconnected social issues create cycles that trap individuals and communities in poverty. Through my work, I seek to build bridges between research and community practice to challenge punitive systems—such as policing, incarceration, and involuntary institutionalization—that disproportionately target and control people experiencing poverty and social marginalization.
