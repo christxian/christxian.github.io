@@ -92,25 +92,21 @@ This is a living guide of resources for the greater Pittsburgh area. It includes
 
 ---
 
-## National & Radical Mutual Aid Resources
+## National Resources
 
 - **[Food Not Bombs – Global Site](https://foodnotbombs.net/)**  
   Directory of local chapters, organizing resources, and how to start a collective.
 
 - **[National Homelessness Law Center](https://homelesslaw.org/)**  
   Legal advocacy and policy research on housing and civil rights.  
-  → Explore their campaign: **[Housing Not Handcuffs](https://housingnothandcuffs.org/)**
+  → **[Housing Not Handcuffs](https://housingnothandcuffs.org/)**
+
+- **[INCITE!](https://incite-national.org/history/)**  
+  A network of radical feminists of color organizing to end state violence and violence in our homes and communities.
 
 - **[Dean Spade – Mutual Aid (The Anarchist Library)](https://theanarchistlibrary.org/library/dean-spade-mutual-aid)**  
   Foundational text on mutual aid, survival work, and collective action.
 
-- **[Critical Resistance](https://criticalresistance.org/)**  
-  National organization dedicated to abolishing the prison industrial complex through grassroots organizing and education.
 
-- **[Interrupting Criminalization](https://www.interruptingcriminalization.com/tools)**  
-  Abolitionist tools, safety planning resources, and zines focused on ending the criminalization of Black women, girls, and gender-expansive people.
-
-- **[WeCopwatch – Know Your Rights](https://wecopwatch.org/know-your-rights/)**  
-  A grassroots project offering training, guides, and resources on how to safely observe and document police activity.
 
 
