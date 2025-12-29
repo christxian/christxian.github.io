@@ -12,19 +12,7 @@ This is a living guide of resources for the greater Pittsburgh area. It includes
 
 ---
 
-### 🥦 Groceries & Healthy Food
-
-- **Pitt Pantry**  
-  Free weekly groceries for Pitt students  
-  [Website](https://www.studentaffairs.pitt.edu/pittserves/the-pitt-pantry/what-to-expect/) | Email: pantry@pitt.edu
-
-- **412 Food Rescue**  
-  Connects surplus food with those in need; offers food access resources  
-  [Website](https://412foodrescue.org/food-access-resources/)
-
----
-
-### 🍽️ Free Hot Meals & Basic Needs Distributions
+### Free Hot Meals & Basic Needs Distributions
 
 - **RICE Mutual Aid**  
   Hot meals and basic needs support  
@@ -40,7 +28,7 @@ This is a living guide of resources for the greater Pittsburgh area. It includes
 
 ---
 
-### 🏘️ Affordable Housing Assistance
+### Affordable Housing Assistance
 
 - **Action Housing**  
   Housing stability and location support  
@@ -52,7 +40,7 @@ This is a living guide of resources for the greater Pittsburgh area. It includes
 
 ---
 
-### 🛏️ Shelter & Homeless Outreach
+### Shelter & Homeless Outreach
 
 - **Allegheny Connect**  
   Central access point for shelters  
@@ -72,19 +60,7 @@ This is a living guide of resources for the greater Pittsburgh area. It includes
 
 ---
 
-### 🛑 Gender-Based Violence, Harassment, or Discrimination
-
-- **Title IX Office – Pitt**  
-  Sexual harassment, stalking, discrimination  
-  [Website](https://www.diversity.pitt.edu/civil-rights-title-ix/policies-procedures-and-practices/sexual-misconduct-and-title-ix)
-
-- **Pittsburgh Action Against Rape (PAAR)**  
-  24/7 crisis support for survivors  
-  [Website](https://paar.net) | Crisis Line: 1-866-363-7273
-
----
-
-### 🧪 Substance Use & Harm Reduction
+### Substance Use & Harm Reduction
 
 - **Prevention Point Pittsburgh**  
   Syringe exchange, HIV/Hep C testing, health referrals  
@@ -96,7 +72,7 @@ This is a living guide of resources for the greater Pittsburgh area. It includes
 
 ---
 
-### 🌈 LGBTQIA+ Resources
+### LGBTQIA+ Resources
 
 - **QMNTY Center**  
   LGBTQIA+ drop-in support, shelter, and youth services  
@@ -116,7 +92,7 @@ This is a living guide of resources for the greater Pittsburgh area. It includes
 
 ---
 
-## 🌎 National & Radical Mutual Aid Resources
+## National & Radical Mutual Aid Resources
 
 - **[Food Not Bombs – Global Site](https://foodnotbombs.net/)**  
   Directory of local chapters, organizing resources, and how to start a collective.
