@@ -15,6 +15,6 @@ I’m available for trainings, guest lectures, or collaborative consulting on to
 - Street-based outreach practices  
 - Critical pedagogy and social work education   
 
-If you're interested in working together, feel free to reach out! I'm always open to community-driven, justice-oriented projects.
+If you're interested in working together, feel free to reach out!
 
 **Contact me:** [capnotes@proton.me](mailto:cap227@pitt.edu)
