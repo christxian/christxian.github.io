@@ -8,8 +8,6 @@ permalink: /resources/
 
 This is a living guide of resources for the greater Pittsburgh area. It includes both institutional services and grassroots mutual aid groups. Many of the organizations listed are focused on meeting basic needs through harm reduction, housing support, food justice, and anti-carceral frameworks.
 
-*Know something I missed? This list can grow—feel free to reach out to help keep it updated.*
-
 ---
 
 ### Free Hot Meals & Basic Needs Distributions
